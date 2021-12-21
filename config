@@ -1,0 +1,12 @@
+TOKEN = '5094522784:AAGi3C8qfNsr7_ShIqTZocmTECqcCKGCuBI'
+
+
+keys = {
+    'Доллар': 'USD',
+    'Евро': 'EUR',
+    'Биткоин': 'BTC',
+    'Иена': 'CNY',
+    'Рубль': 'RUB',
+    'Белрубль': 'BYN',
+
+}
